@@ -22,4 +22,3 @@ print("**************")
 print("Welcome to swift programmming",terminator:"$")
 print("Fall 2021")
 
-print
